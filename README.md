@@ -1,0 +1,2 @@
+# llmembedding
+BAAI embedding model
